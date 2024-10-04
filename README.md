@@ -22,7 +22,7 @@ Run the test cases.
 
 To learn Fastify, check out the [Fastify documentation](https://fastify.dev/docs/latest/).
 
-download and install ollama from here[Ollama](https://ollama.com)
+download and install ollama from here [Ollama](https://ollama.com)
 
 run it with `ollama` command
 
